@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="true">happybirthday</string>
+    <string name="hello" translatable="true">im-sad!!!</string>
+    <string name="be_happy_binary">BE HAPPY,BINARY!</string>
+    <string name="from_aigerim">From Aigerim</string>
+    <string name="don_t_dive_into_yourself_so_much_take_it_easy">don\'t dive into yourself so much, take it easy</string>
+    <string name="todo">TODO</string>
+    <string name="you_need_rest">You need rest</string>
+    <string name="need_a_rest">Need a rest</string>
+    <string name="textview">TextView</string>
+    <string name="click_me">Click me</string>
+    <string name="textview1">TextView</string>
+    <string name="todo1">TODO</string>
+    <string name="are_you_lucky">Are you lucky?</string>
+    <string name="try_your_luck_thanks_to_our_game">try your luck thanks to our game</string>
+    <string name="by_aigerim">by Aigerim</string>
+    <string name="try_your_luck_in_this_game">try your luck in this game</string>
+</resources>
